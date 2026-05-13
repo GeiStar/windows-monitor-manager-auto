@@ -609,4 +609,4 @@ monitor-service.exe --show-console --mode clone
 
 **致謝**
 
-本專案 Fork 自 [github.com/Seryta/windows-monitor-manager](https://github.com/Seryta/windows-monitor-manager)，感謝原作者的開源貢獻。
+本專案 Fork 自 [github.com/Seryta/windows-monitor-manager](https://github.com/Seryta/windows-monitor-manager) 並在此基礎上進行了功能增強與改良，感謝原作者的開源貢獻。

@@ -607,4 +607,4 @@ monitor-service.exe --show-console --mode clone
 
 **Acknowledgments**
 
-This project is forked from [github.com/Seryta/windows-manager-monitor](https://github.com/Seryta/windows-manager-monitor). Thanks to the original author for their open-source contribution.
+This project is forked from and enhanced upon [github.com/Seryta/windows-monitor-manager](https://github.com/Seryta/windows-monitor-manager). Thanks to the original author for the foundational work.
